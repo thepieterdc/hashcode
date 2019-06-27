@@ -1,0 +1,2 @@
+# hashcode
+Google Hashcode solutions
